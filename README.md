@@ -7,6 +7,6 @@ Ashish
 
 
 *ital;ics*
-![thinGs](https://github.com/JABIR28/Find-me/blob/main/ronny/Screenshot%20from%202020-01-28%2012-19-10.png)
+![](https://github.com/JABIR28/Find-me/blob/main/ronny/Screenshot%20from%202020-01-28%2012-19-10.png)
 
 [JYOTHI](https://www.jecc.ac.in/)
