@@ -11,7 +11,8 @@ Ashish
 
 [JYOTHI](https://www.jecc.ac.in/)
 
-| First Header  | Second Header |
+| MOVIE         | DRAMA         |
 | ------------- | ------------- |
+|               |               |
 | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
